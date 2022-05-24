@@ -1,0 +1,43 @@
+- name: Scott Trinkle
+  photo: Blank.png
+  duration: 2021
+  job: Data Engineer, Walters Corporation
+  info: PhD Student
+  notes: In the La Rivière Lab 2017 - 2021, now Data Engineer at Walters Corporation
+
+- name: Talon Chandler
+  photo: Blank.png
+  duration: 2020
+  job: Postdoc, CZ Biohub
+  info: PhD Student
+
+- name: Corey Scott
+  photo: Blank.png
+  duration: 2020
+  job: Senior Data Scientist, Epsilon
+  info: PhD Student
+
+- name: Bryan Quigley
+  photo: Blank.png
+  duration: 2018
+  info: PhD Student
+
+- name: David Rigie
+  photo: Blank.png
+  duration: 2016
+  job: Algorithms Engineer, RefleXion Medical
+
+- name: Jonathan Rosenfield
+  photo: Blank.png
+  duration: 2015
+  job: Medical Physicist, Radiotherapy Clinics of Georgia
+
+- name: Kevin Little
+  photo: Blank.png
+  duration: 2014
+  job: Asst. Prof. at UChicago
+
+- name: Kevin Little
+  photo: Blank.png
+  duration: 2010
+  job: Senior Scientist, Clarix Imaging Corporation
