@@ -1,11 +1,11 @@
 - name: Ben Preusser
-  photo: Blank.png
+  photo: ben.jpg
   info: PhD Student, started Sept 2018
   email: bmpreusser@uchicago.edu
   number_educ: 0
 
 - name: Hadley DeBrosse
-  photo: Blank.png
+  photo: Hadley.png
   info: PhD Student, started Sept 2019
   email: hadleys@uchicago.edu
   number_educ: 0
@@ -15,9 +15,16 @@
   info: PhD Student, started Sept 2019
   email: daibaiyang@uchicago.edu
   number_educ: 0
+  education1: University of Science & Technology of C Hefei
 
 - name: Geneva Schlafly
-  photo: Blank.png
+  photo: geneva.jpg
   info: PhD Student, started Sept 2020
   email: gschlafly@uchicago.edu
+  number_educ: 0
+
+- name: Gia Jadick
+  photo: gia.jpg
+  info: PhD Student, started Sept 2021
+  email: giavanna@uchicago.edu
   number_educ: 0

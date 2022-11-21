@@ -53,11 +53,16 @@ For a full list of publications and patents see [below](#full-list-of-publicatio
 
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+<em>D Modgil, P La Rivière, Y Liu, Z Yu</em><br />Method and apparatus for spectral computed tomography (CT) with multi-material decomposition into three or more material components<br /> <a href="https://patents.google.com/patent/US11238585B2/en">US11238585B2 (2022)</a>
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em>H Shroff, Y Wu, X Han, P La Rivière</em><br />Systems and methods for producing isotropic in-plane super-resolution images from line-scanning confocal microscopy<br /> <a href="https://patents.google.com/patent/WO2022150506A1/en">WO2022150506A1 (2022)</a>
 
-## Full List of publications
+<em>H Frisch, E Angelico, P La Rivière, B Adams, E Spieglan, J Shida, A Elagin, K Domurat-Sousa</em><br />Positron emission tomography systems based on ionization-activated organic fluor molecules, planar pixelated photodetectors, or both<br /> <a href="https://patents.google.com/patent/WO2022093732A1/en">WO2022093732A1 (2022)</a>
+
+See <a href="https://patents.google.com/?inventor=Patrick+La+Riviere&num=25&sort=new&dups=language">more patents</a>
+
+
+## List of publications since 2022
 
 {% for publi in site.data.publist %}
 

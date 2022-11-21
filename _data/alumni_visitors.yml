@@ -2,3 +2,15 @@
 #   duration: 2016
 #   job: 
 
+- name: Nikolaj Reiser
+  info: Staff Researcher, started June 2020
+  email: nikolaj.reiser@gmail.com
+  number_educ: 0
+  duration: 2020-22
+  job: Scientist at Startup
+
+- name: Lucas Berens
+  info: Rotating PhD Student, started Sept 2021
+  email: lberens@uchicago.edu
+  number_educ: 0
+  duration: 2022
