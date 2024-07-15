@@ -1,3 +1,83 @@
+- title: "Vascular Plugs Improve Pulmonary Arteriovenous Malformation Occlusion over Coil Embolization Alone: A Proof-of-Concept Study using Dual Energy Computed Tomography"
+  image: 
+  description: 
+  authors: Q Yu, S Zangan, P La Rivière, L Landeras, B Funaki
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1051044324004408
+    display: Journal of Vascular and Interventional Radiology (2024)
+  highlight: 0
+  news2: 
+
+- title: "A High-Sensitivity Benchtop X-Ray Fluorescence Emission Tomography (XFET) System With a Full-Ring of X-Ray Imaging-Spectrometers and a Compound-Eye Collimation Aperture"
+  image: 
+  description: 
+  authors: S Mandot, EM Zannoni, LiLng Cai, X Nie, P La Rivière, MD Wilson, LJ Meng
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10381599
+    display: IEEE Transactions on Medical Imaging 43, 5 (2024)
+  highlight: 0
+  news2: 
+
+- title: "Sinogram domain angular upsampling of sparse-view micro-CT with dense residual hierarchical transformer and attention-weighted loss"
+  image: 
+  description: 
+  authors: AS Adishesha, DJ Vanselow, P La Rivière, K Cheng and SX Huang.
+  link:
+    url: https://doi.org/10.1016/j.cmpb.2023.107802
+    display: Comput. Methods Prog. Biomed 242 C (2024)
+  highlight: 0
+  news2: 
+
+- title: "Three-dimensional structured illumination microscopy with enhanced axial resolution"
+  image: 
+  description: 
+  authors: X Li, Y Wu, Y Su, I Rey-Suarez, C Matthaeus, TB Updegrove, Z Wei, L Zhang, H Sasaki, Y Li, M Guo, JP Giannini, HD Vishwasrao, J Chen, SJ Lee, L Shao, H Liu, KS Ramamurthi, JW Taraska, A Upadhyaya, P La Rivière, H Shroff
+  link:
+    url: https://www.nature.com/articles/s41587-022-01651-1
+    display: Nature Biotechnology 41, 9 (2023)
+  highlight: 0
+  news2: 
+
+- title: "X-ray Fluorescence Emission Tomography of Implantable Scintillating Microparticles for X-Ray induced Optogenetic Application"
+  image: 
+  description: 
+  authors: S Mandot, EM Zannoni, P La Rivière, LJ Meng
+  link:
+    url: https://jnm.snmjournals.org/content/64/supplement_1/P1220.abstract
+    display: Journal of Nuclear Medicine 64 (2023)
+  highlight: 0
+  news2: 
+
+- title: "Phase-diversity-based wavefront sensing for fluorescence microscopy"
+  image: 
+  description: 
+  authors: C Johnson, M Guo, MC Schneider, Y Su, S Khuon, N Reiser, Y Wu, P La Rivière, H Shroff
+  link:
+    url: https://doi.org/10.1364/OPTICA.518559
+    display: Optica 11, 6 (2024)
+  highlight: 0
+  news2: 
+
+- title: "Dual-energy computed tomography imaging with megavoltage and kilovoltage X-ray spectra"
+  image: mvkv_JMI_cover.png
+  description: We explore the potential for dual-energy CT imaging with joint megavoltage and kilovoltage x-ray spectra to alleviate metal artifacts and improve soft-tissue contrast.
+  authors: G Jadick, G Schlafly, P La Rivière
+  link:
+    url: https://doi.org/10.1117/1.JMI.11.2.023501
+    display: Journal of Medical Imaging (2024)
+  highlight: 1
+  news2: Our publication was featured on the cover of JMI, displaying severe metal artifacts in a simulated CT image due to a steel hip implant.
+
+-title: "Effect of Detector Placement on Joint Estimation in X-ray Fluorescence Emission Tomography"
+  image:
+  description:
+  authors: H DeBrosse, LJ Meng, P La Rivière
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10315954
+    display: IEEE trans. radiat. plasma med. sci. (2023)
+  highlight: 0
+  news2:
+
 - title: "Joint Estimation of Metal Density and Attenuation Maps with Pencil Beam XFET"
   image: XFET.jpg
   description: We investigate the joint estimation of metal and attenuation maps of a pencil-beam XFET system. Using simulated data, re demonstrate an accurate joint reconstruction.
@@ -31,7 +111,7 @@
 - title: "A wide-field micro-computed tomography detector: micron resolution at half-centimetre scale"
   image: 
   description: 
-  authors: Maksim A Yakovlev, Daniel J Vanselow, Mee Siing Ngu, Carolyn R Zaino, Spencer R Katz, Yifu Ding, Dula Parkinson, Steve Yuxin Wang, Khai Chung Ang, Patrick La Riviere, Keith C Cheng
+  authors: Maksim A Yakovlev, Daniel J Vanselow, Mee Siing Ngu, Carolyn R Zaino, Spencer R Katz, Yifu Ding, Dula Parkinson, Steve Yuxin Wang, Khai Chung Ang, Patrick La Rivière, Keith C Cheng
   link:
     url: https://journals.iucr.org/s/issues/2022/02/00/mo5248/mo5248.pdf
     display: J Synchrotron Rad (2022)
@@ -41,7 +121,7 @@
 - title: "Tomographic Muon Imaging of the Great Pyramid of Giza"
   image: muonxyz.jpg
   description: We plan to field a telescope system that has upwards of 100 times the sensitivity of the equipment that has recently been used at the Great Pyramid, will image muons from nearly all angles and will, for the first time, produce a true tomographic image of such a large structure.
-  authors: A Bross, EC Dukes, R Ehrlich, E Fernandez, S Dukes, M Gobashy, I Jamieson, P La Riviere, M Liu, G Marouard, N Moeller, A Pla-Dalmau, P Rubinov, O Shohoud, Phil Vargas, T Welch
+  authors: A Bross, EC Dukes, R Ehrlich, E Fernandez, S Dukes, M Gobashy, I Jamieson, P La Rivière, M Liu, G Marouard, N Moeller, A Pla-Dalmau, P Rubinov, O Shohoud, Phil Vargas, T Welch
   link:
     url: https://arxiv.org/abs/2202.08184
     display: arXiv:2202.08184 (2022)
@@ -51,7 +131,7 @@
 - title: "Synergistic checkpoint-blockade and radiotherapy–radiodynamic therapy via an immunomodulatory nanoscale metal-organic framework"
   image: 
   description: 
-  authors: K Ni, Z Xu, A Culbert, T Luo, N Guo, K Yang, E Pearson, B Preusser, T Wu, PLa Riviere, R Weichselbaum, M Spiotto, W Lin
+  authors: K Ni, Z Xu, A Culbert, T Luo, N Guo, K Yang, E Pearson, B Preusser, T Wu, PLa Rivière, R Weichselbaum, M Spiotto, W Lin
   link:
     url: https://dx.doi.org/10.1038%2Fs41551-022-00846-w
     display: Nat Biomed Eng 6, 2 (2022)
@@ -61,7 +141,7 @@
 - title: "Uncovering the Effects of Symbiosis and Temperature on Coral Calcification"
   image: 
   description: 
-  authors: Zoe Dellaert, Phillip A Vargas, Patrick J La Riviere, Loretta M Roberson
+  authors: Zoe Dellaert, Phillip A Vargas, Patrick J La Rivière, Loretta M Roberson
   link:
     url: https://www.journals.uchicago.edu/doi/full/10.1086/716711
     display: The Biological Bulletin 242, 1 (2022)
@@ -71,7 +151,7 @@
 - title: "Three-dimensional structured illumination microscopy with enhanced axial resolution"
   image: 
   description: 
-  authors: X Li, Y Wu, Y Su, I Suarez, C Matthaeus, T Updegrove, Z Wei, L Zhang, H Sasaki, Y Li, M Guo, J Giannini, H Vishwasrao, J Chen, SJ Lee, L Shao, H Liu, K Ramamurthi, J Taraska, A Upadhyaya, P La Riviere, H Shroff
+  authors: X Li, Y Wu, Y Su, I Suarez, C Matthaeus, T Updegrove, Z Wei, L Zhang, H Sasaki, Y Li, M Guo, J Giannini, H Vishwasrao, J Chen, SJ Lee, L Shao, H Liu, K Ramamurthi, J Taraska, A Upadhyaya, P La Rivière, H Shroff
   link:
     url: https://web.archive.org/web/20220724215002id_/https://www.biorxiv.org/content/biorxiv/early/2022/07/21/2022.07.20.500834.full.pdf
     display: biorxiv:10.1101/2022.07.20.500834 (2022)
