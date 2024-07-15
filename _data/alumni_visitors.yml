@@ -1,7 +1,3 @@
-# - name: Nikolaos Iliopoulos
-#   duration: 2016
-#   job: 
-
 - name: Chris Valdes
   info: Rotating PhD Student, started Sept 2022
   email: valdesc@uchicago.edu
@@ -20,4 +16,3 @@
   email: lberens@uchicago.edu
   number_educ: 0
   duration: 2022
-
