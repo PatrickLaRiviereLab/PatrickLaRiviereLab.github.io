@@ -1,3 +1,13 @@
+- name: Hadley DeBrosse
+  photo: Blank.png
+  duration: 2024
+  job: Imaging Medical Physics Resident, Ohio State
+
+- name: Ben Preusser
+  photo: Blank.png
+  duration: 2023
+  job: Scientist, Los Alamos National Laboratory
+
 - name: Scott Trinkle
   photo: Blank.png
   duration: 2021
@@ -40,9 +50,9 @@
 - name: Kevin Little
   photo: Blank.png
   duration: 2014
-  job: Asst. Prof. at UChicago
+  job: Medical Imaging Physicist, Ohio State
 
 - name: Dimple Modgil
   photo: Blank.png
   duration: 2010
-  job: Senior Scientist, Clarix Imaging Corporation
+  job: Clinical CT Scientist, GE HealthCare
