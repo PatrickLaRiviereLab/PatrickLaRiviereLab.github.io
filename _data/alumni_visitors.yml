@@ -2,6 +2,12 @@
 #   duration: 2016
 #   job: 
 
+- name: Chris Valdes
+  info: Rotating PhD Student, started Sept 2022
+  email: valdesc@uchicago.edu
+  number_educ: 0
+  duration: 2022
+  
 - name: Nikolaj Reiser
   info: Staff Researcher, started June 2020
   email: nikolaj.reiser@gmail.com
@@ -14,3 +20,4 @@
   email: lberens@uchicago.edu
   number_educ: 0
   duration: 2022
+

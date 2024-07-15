@@ -1,15 +1,3 @@
-- name: Ben Preusser
-  photo: ben.jpg
-  info: PhD Student, started Sept 2018
-  email: bmpreusser@uchicago.edu
-  number_educ: 0
-
-- name: Hadley DeBrosse
-  photo: Hadley.png
-  info: PhD Student, started Sept 2019
-  email: hadleys@uchicago.edu
-  number_educ: 0
-
 - name: Baiyang Dai
   photo: Blank.png
   info: PhD Student, started Sept 2019
@@ -27,4 +15,10 @@
   photo: gia.jpg
   info: PhD Student, started Sept 2021
   email: giavanna@uchicago.edu
+  number_educ: 0
+
+- name: Isaak Tarampoulous
+  photo: isaak.png
+  info: PhD Student, started Sept 2022
+  email: itarampoulous@uchicago.edu
   number_educ: 0
