@@ -1,23 +1,29 @@
-# - name: Nikolaos Iliopoulos
-#   duration: 2016
-#   job: 
+- name: Joren Husic
+  photo: Blank.png
+  info: Staff Researcher
+  email: husicj@uchicago.edu
+  number_educ: 0
+  duration: 2023-24
+  job: PhD Student
+  # at Colorado
 
 - name: Chris Valdes
   info: Rotating PhD Student, started Sept 2022
   email: valdesc@uchicago.edu
   number_educ: 0
   duration: 2022
+  job: PhD Student at UChicago
   
 - name: Nikolaj Reiser
   info: Staff Researcher, started June 2020
   email: nikolaj.reiser@gmail.com
   number_educ: 0
   duration: 2020-22
-  job: Scientist at Startup
+  job: Scientist at Clarix Imaging
 
 - name: Lucas Berens
   info: Rotating PhD Student, started Sept 2021
   email: lberens@uchicago.edu
   number_educ: 0
   duration: 2022
-
+  job: PhD Student at UChicago

@@ -106,7 +106,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Reserachers and Visitors
+## Researchers and Visitors
 {% assign number_printed = 0 %}
 {% for member in site.data.researchers_visitors %}
 

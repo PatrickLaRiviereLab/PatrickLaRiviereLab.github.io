@@ -1,14 +1,7 @@
-- name: Baiyang Dai
-  photo: Blank.png
-  info: PhD Student, started Sept 2019
-  email: daibaiyang@uchicago.edu
-  number_educ: 0
-  education1: University of Science & Technology of C Hefei
-
-- name: Geneva Schlafly
+- name: Geneva Anderberg
   photo: geneva.jpg
   info: PhD Student, started Sept 2020
-  email: gschlafly@uchicago.edu
+  email: gsa@uchicago.edu
   number_educ: 0
 
 - name: Gia Jadick

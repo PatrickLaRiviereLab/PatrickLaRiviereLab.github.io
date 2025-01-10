@@ -63,6 +63,8 @@ See <a href="https://patents.google.com/?inventor=Patrick+La+Riviere&num=25&sort
 
 
 ## List of publications since 2022
+ *Last updated: July 2024*
+
 
 {% for publi in site.data.publist %}
 
